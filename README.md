@@ -1,3 +1,4 @@
 # abdulloh_pekan02_loginpage
 
-![Screenshot 2024-12-30 at 20 23 03](https://github.com/user-attachments/assets/b78b2830-0450-4f59-b4cf-07b34a4a327e)
+![Simulator Screenshot - iPhone 11 - 2024-12-30 at 23 19 49](https://github.com/user-attachments/assets/7aac2e64-9960-48d8-91d0-128884ada6a2)
+
